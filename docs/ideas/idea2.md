@@ -1,9 +1,9 @@
 ---
 title: Idea 2
 layout: default
-parent: ideas
+parent: Ideas
 nav_order: 2
-permalink: /ideas/Idea2
+permalink: /docs/ideas/Idea2
 ---
 
 # Idea 2

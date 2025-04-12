@@ -2,7 +2,7 @@
 title: Services
 layout: default
 nav_order: 2
-permalink: /services
+permalink: /docs/services
 ---
 
 

@@ -2,7 +2,7 @@
 title: Contact
 layout: default
 nav_order: 5
-permalink: /contact
+permalink: /docs/contact
 ---
 
 # Working in a team is productive and fun

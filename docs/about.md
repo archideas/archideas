@@ -2,7 +2,7 @@
 title: About
 layout: default
 nav_order: 4
-permalink: /about
+permalink: /docs/about
 ---
 
 # Tomas Ludik
