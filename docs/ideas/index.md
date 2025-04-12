@@ -3,7 +3,7 @@ title: Ideas
 layout: default
 has_children: true
 nav_order: 3
-permalink: /docs/ideas
+permalink: /ideas
 ---
 
 # Ideas
