@@ -9,3 +9,6 @@ logo: "/images/archideas-main-logo.png"
 
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/images/archideas-logo.ico"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: false # show or hide edit this page link
