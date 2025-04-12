@@ -1,6 +1,7 @@
 ---
 title: Idea 2
 layout: default
+parent: ideas
 nav_order: 2
 permalink: /ideas/Idea2
 ---
