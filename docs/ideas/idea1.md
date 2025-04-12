@@ -1,8 +1,8 @@
 ---
-title: Ideas
+title: Idea 1
 layout: default
 nav_order: 3.1
-permalink: /ideas
+permalink: /ideas/Idea1
 ---
 
 # Idea 1
