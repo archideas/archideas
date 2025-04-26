@@ -22,3 +22,5 @@ I am the Senior Enterprise Architect, responsible for delivering holistic and pr
 ## Contact
 
 [Email](mailto:tomas.ludik@gmail.com) &#124; [LinkedIn](https://www.linkedin.com/in/tomasludik)  &#124; [GitHub](https://github.com/tomasludik)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X01E31KF)
