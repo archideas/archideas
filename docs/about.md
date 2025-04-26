@@ -9,7 +9,7 @@ permalink: /about
 
 # Tomas Ludik
 
-**Enterprise Architecture Leader** &#124; **IT Strategy & Transformation** &#124; **FinTech**
+Enterprise Architecture Leader &#124; IT Strategy & Transformation &#124; FinTech
 
 I am the Senior Enterprise Architect, responsible for delivering holistic and pragmatic solutions aligned with business needs and objectives. With a strong passion for new ideas and emerging technologies, I excel at thinking out of the box to drive tangible results with tremendous energy and dedication. My professional experience includes the public and financial sector across multiple countries within Asia and Europe. I am looking forward to embrace new challenges and continue making meaningful contributions.
 
@@ -21,4 +21,4 @@ I am the Senior Enterprise Architect, responsible for delivering holistic and pr
 
 ## Contact
 
-> [Email](mailto:tomas.ludik@gmail.com) &#124; [LinkedIn](https://www.linkedin.com/in/tomasludik)  &#124; [GitHub](https://github.com/tomasludik)
+[Email](mailto:tomas.ludik@gmail.com) &#124; [LinkedIn](https://www.linkedin.com/in/tomasludik)  &#124; [GitHub](https://github.com/tomasludik)
