@@ -6,13 +6,11 @@ nav_order: 1
 permalink: /
 ---
 
-# Architecture Ideas 
-
 A platform for sharing insightful ideas and topics in enterprise architecture and software development, aimed at helping others accelerate value delivery to business stakeholders.
 
-<img src="/images/archideas-schema.png" width="300">
+<img src="/images/archideas-schema.png" width="400">
 
-## Scope
+ ## Scope 
 - Enterprise Architecture
 - Solutions Architecture
 - Software Development
