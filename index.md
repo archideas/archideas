@@ -8,7 +8,7 @@ permalink: /
 
 A platform for sharing insightful ideas in **enterprise architecture** and **software development**, aimed at helping others **accelerate value delivery** to business stakeholders.
 
-<img src="/images/archideas-schema2.png">
+[//]: <img src="/images/archideas-schema2.png">
 
 ## Scope 
 - Enterprise Architecture
