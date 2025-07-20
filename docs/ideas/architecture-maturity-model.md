@@ -1,10 +1,15 @@
 ---
-title: Idea 3
+title: Architecture Maturity Model
 layout: default
 parent: Ideas
 nav_order: 3
-permalink: /ideas/Idea3
+permalink: /ideas/architecture-maturity-model
 ---
+
+# Architecture Maturity Model
+    - Architecture Board
+    - When Architecture team should be involved
+    - Level of Documentation, diagraming vs modelling
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 

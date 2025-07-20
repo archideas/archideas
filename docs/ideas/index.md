@@ -9,6 +9,6 @@ permalink: /ideas
 
 # Ideas
 
-Idea 1
-
-Idea 2
+- Enterprise Architectrue
+- Structure of IT Teams
+- Architecture Maturity Model

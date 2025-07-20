@@ -1,12 +1,20 @@
 ---
-title: Services
+title: Portfolio
 layout: default
+has_children: true
+has_toc: false
 nav_order: 2
-permalink: /services
+permalink: /portfolio
 ---
 
 
-# Services
+# Portfolio
+
+- Solutions
+- Projects
+- TechStack
+- Leadership
+
 
 - Application Landscape
 - Digital Transformation
