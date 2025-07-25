@@ -46,8 +46,8 @@ Retail is the sale of goods and services to consumers. A retailer purchases good
 ### Container Diagram
 <img src="/docs/portfolio/diagrams/E-commercePlatform-ContainerDiagram.drawio.png">
 
-## Solution Design in BPMN
+[//]: ## Solution Design in BPMN
 
-## Solution Design in UML
+[//]: ## Solution Design in UML
 
-## Solution Design in ArchiMate
+[//]: ## Solution Design in ArchiMate
