@@ -38,13 +38,13 @@ Retail is the sale of goods and services to consumers. A retailer purchases good
 - Marketing Specialist
 
 ### System Lanscape Diagram
-<img src="/diagrams/RetailBusiness-SystemLandscapeDiagram.drawio.png">
+<img src="/docs/portfolio/diagrams/RetailBusiness-SystemLandscapeDiagram.drawio.png">
 
 ### System Contex Diagram
-<img src="/diagrams/E-commercePlatform-SystemContexDiagram.drawio.png">
+<img src="/docs/portfolio/diagrams/E-commercePlatform-SystemContextDiagram.drawio.png">
 
 ### Container Diagram
-<img src="/diagrams/E-commercePlatfor-ContainerDiagram.drawio.png">
+<img src="/docs/portfolio/diagrams/E-commercePlatform-ContainerDiagram.drawio.png">
 
 ## Solution Design in BPMN
 
