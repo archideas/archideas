@@ -9,4 +9,8 @@ permalink: /contact
 
 Let’s get in touch and build a team together. Collaboration is the key to success!
 
+[Book a Meeting]{: .btn .btn-primary }
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf9fcChwSdeoo24zUrWqo1-ky-rVaIpQAVRLjGKEOHnoZnLLg/viewform?embedded=true" width="640" height="721" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+[Book a Meeting]: https://calendly.com/tomas-ludik/30min 
