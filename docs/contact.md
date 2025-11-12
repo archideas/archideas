@@ -16,7 +16,7 @@ I’d love to hear from you. Whether you want to discuss a project, collaboratio
 | **Email** | **LinkedIn** | **GitHub** |
 |[tomas.ludik@gmail.com](mailto:tomas.ludik@gmail.com)|[linkedin.com/in/tomasludik](https://www.linkedin.com/in/tomasludik)|[github.com/tomasludik](https://github.com/tomasludik)|
 
-Or simply book a meeting.
+Or simply book a meeting with me.
 
 [Book a Meeting](https://calendly.com/tomas-ludik/30min ){: .btn .btn-primary }
 

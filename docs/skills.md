@@ -56,5 +56,6 @@ permalink: /skills
 
 | <img src="/images/certificates/prince2.png" width="120"> | <img src="/images/certificates/togaf.png" width="120"> | <img src="/images/certificates/azure.png" width="120"> |
 | :---: | :---: | :---: |
+| **PRINCE2** | **TOGAF** | **MS Azure** |
 
 
