@@ -21,9 +21,3 @@ I am an experienced Senior Technical Program Manager and Technology Leader, deli
 |:---:|:---:|:---:|:---:|:---:|
 | **Slovakia** | **Czechia** | **China** | **Philippines** | **Ireland** |
 | Trencin | Brno | Tianjin | Manila | Dublin |
-
-## More About Me
-
-[<img src="/images/about/linkedin.svg" width="30">](https://www.linkedin.com/in/tomasludik)
-[<img src="/images/about/github.svg" width="30">](https://github.com/tomasludik)
-[<img src="/images/about/email.svg" width="30">](mailto:tomas.ludik@gmail.com)
