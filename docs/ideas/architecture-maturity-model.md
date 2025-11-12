@@ -2,7 +2,7 @@
 title: Architecture Maturity Model
 layout: default
 parent: Ideas
-nav_order: 3
+nav_order: 4
 permalink: /ideas/architecture-maturity-model
 ---
 

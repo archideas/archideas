@@ -1,9 +1,9 @@
 ---
 title: Solutions
 layout: default
-parent: Portfolio
-nav_order: 1
-permalink: /portfolio/solutions
+parent: Ideas
+nav_order: 2
+permalink: /ideas/solutions
 ---
 
 # Solutions

@@ -1,12 +1,11 @@
 ---
-title: Projects
+title: Portfolio
 layout: default
-parent: Portfolio
 nav_order: 2
-permalink: /portfolio/projects
+permalink: /portfolio
 ---
 
-# Projects
+# Projects Porfolio
 
 - License Optimisation
 - Azure Cloud Cost Optimization

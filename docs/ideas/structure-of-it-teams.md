@@ -2,7 +2,7 @@
 title: Structure of IT Teams
 layout: default
 parent: Ideas
-nav_order: 2
+nav_order: 3
 permalink: /ideas/structure-of-it-teams
 ---
 
