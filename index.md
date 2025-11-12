@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /
 ---
 
-# Driving Enterprise Transformation Through Architecture & Program Leadership
+# Driving Enterprise Transformation Through Architecture & Programme Leadership
 
 ## I help organisations align technology with business objectives, delivering complex programmes, scalable architecture, and measurable outcomes.
 
@@ -18,5 +18,5 @@ permalink: /
 | **Technology Strategy** | **Business Transformation** |
 | Aligning innovation with business goals | Driving change that produces measurable results |
 
-[Portfolio](https://just-the-docs.com){: .btn .btn-primary }
-[Contact me](https://just-the-docs.com){: .btn }
+[View Portfolio](https://archideas.org/portfolio){: .btn .btn-primary }
+[Contact Me](https://archideas.org/contact){: .btn }
