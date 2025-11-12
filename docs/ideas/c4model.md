@@ -3,10 +3,10 @@ title: Solutions
 layout: default
 parent: Ideas
 nav_order: 2
-permalink: /ideas/solutions
+permalink: /ideas/c4model
 ---
 
-# Solutions
+# C4 Model Use Case
 
 ## Solution Design for Retail besiness in C4 Model
 
@@ -38,13 +38,13 @@ Retail is the sale of goods and services to consumers. A retailer purchases good
 - Marketing Specialist
 
 ### System Lanscape Diagram
-<img src="/docs/portfolio/diagrams/RetailBusiness-SystemLandscapeDiagram.drawio.png">
+<img src="/docs/ideas/diagrams/RetailBusiness-SystemLandscapeDiagram.drawio.png">
 
 ### System Contex Diagram
-<img src="/docs/portfolio/diagrams/E-commercePlatform-SystemContextDiagram.drawio.png">
+<img src="/docs/ideas/diagrams/E-commercePlatform-SystemContextDiagram.drawio.png">
 
 ### Container Diagram
-<img src="/docs/portfolio/diagrams/E-commercePlatform-ContainerDiagram.drawio.png">
+<img src="/docs/ideas/diagrams/E-commercePlatform-ContainerDiagram.drawio.png">
 
 [//]: ## Solution Design in BPMN
 [//]: ## Solution Design in UML
