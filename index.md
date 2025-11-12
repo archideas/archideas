@@ -12,10 +12,12 @@ permalink: /
 
 
 
-|<img src="/images/archideas-logo.png" width="100"> |<img src="/images/archideas-logo.png" width="100">|
+|<img src="/images/archideas-logo.png" width="50"> |<img src="/images/archideas-logo.png" width="50">|
+|:---:|:---:|
 | **Enterprise Architecture** | **Program Management**  | 
 | Designing resilient, scalable IT landscapes | Leading multi-functional teams to deliver on time  | 
-|<img src="/images/archideas-logo.png" width="100"> |<img src="/images/archideas-logo.png" width="100">|
+||||
+|<img src="/images/archideas-logo.png" width="50"> |<img src="/images/archideas-logo.png" width="50">|
 | **Technology Strategy** | **Business Transformation** |
 | Aligning innovation with business goals | Driving change that produces measurable results |
 
