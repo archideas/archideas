@@ -6,22 +6,12 @@ nav_order: 1
 permalink: /
 ---
 
-A platform for sharing insightful ideas in **enterprise architecture** and **software development**, aimed at helping others **accelerate value delivery** to business stakeholders.
+# Driving Enterprise Transformation Through Architecture & Program Leadership
 
-[//]: <img src="/images/archideas-schema2.png">
+### I help organisations align technology with business objectives, delivering complex programmes, scalable architecture, and measurable outcomes.
 
-## Scope 
-- Enterprise Architecture
-- Solutions Architecture
-- Software Development
-- Project Management
-- Agile Methodologies
+| **Enterprise Architecture** | **Program Management**  | **Technology Strategy** | **Business Transformation** |
+| Designing resilient, scalable IT landscapes | Leading multi-functional teams to deliver on time  | Aligning innovation with business goals | Driving change that produces measurable results |
 
-## Principles
-- Deliver value
-- Help others
-- Share knowledge
-- Keep it simple
-- Embrace ideas
-- Learn continuously
-- Seek feedback
+[Portfolio](https://just-the-docs.com){: .btn .btn-primary }
+[Contact me](https://just-the-docs.com){: .btn }
