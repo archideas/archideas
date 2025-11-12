@@ -55,4 +55,4 @@ permalink: /skills
 ## Certifications
 
 | <img src="/images/certificates/prince2.png" width="120"> | <img src="/images/certificates/togaf.png" width="120"> | <img src="/images/certificates/azure.png" width="120"> |
-|:---------:|:---------:|:---------:|
+| :---: | :---: | :---: |
