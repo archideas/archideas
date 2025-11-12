@@ -9,7 +9,9 @@ permalink: /ideas
 
 # Ideas
 
-- Enterprise Architectrue
-- Structure of IT Teams
-- Architecture Maturity Model
-- Solutions
+Personal ideas. Ideation in progress. 😊
+
+- [Enterprise Architectrue](/ideas/enterprise-architecture)
+- [C4 Model Ilustration](/ideas/c4model) 
+- [Structure of IT Teams](/ideas/structure-of-it-teams)
+- [Architecture Maturity Model](/ideas/architecture-maturity-model)
