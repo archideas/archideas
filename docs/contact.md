@@ -1,16 +1,27 @@
 ---
 title: Contact
 layout: default
-nav_order: 5
+nav_order: 6
 permalink: /contact
 ---
 
-# Teamwork Is Fun
+# Get in Touch 👋
 
-Let’s get in touch and build a team together. Collaboration is the key to success!
+Thanks for visiting my website! 
 
-[Book a Meeting]{: .btn .btn-primary }
+I’d love to hear from you. Whether you want to discuss a project, collaboration, or just say hi. Collaboration is fun and the key to success!
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf9fcChwSdeoo24zUrWqo1-ky-rVaIpQAVRLjGKEOHnoZnLLg/viewform?embedded=true" width="640" height="721" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+| [<img src="/images/about/email.svg" width="30">](mailto:tomas.ludik@gmail.com) | [<img src="/images/about/linkedin.svg" width="30">](https://www.linkedin.com/in/tomasludik) | [<img src="/images/about/github.svg" width="30">](https://github.com/tomasludik) | 
+|:---:|:---:|:---:|
+| **Email** | **LinkedIn** | **GitHub** |
+|[tomas.ludik@gmail.com](mailto:tomas.ludik@gmail.com)|[linkedin.com/in/tomasludik](https://www.linkedin.com/in/tomasludik)|[github.com/tomasludik](https://github.com/tomasludik)|
 
-[Book a Meeting]: https://calendly.com/tomas-ludik/30min 
+Or simply book a meeting.
+
+[Book a Meeting](https://calendly.com/tomas-ludik/30min ){: .btn .btn-primary }
+
+---
+
+I usually reply within a few days.  
+
+Looking forward to connecting!
