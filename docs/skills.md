@@ -8,7 +8,9 @@ permalink: /skills
 # Skills & Expertise
 
 ## Program & Portfolio Leadership
+
 > Driving strategic initiatives, governance, and cross-functional delivery.
+
 - Program & Portfolio Management
 - Strategic Planning & Execution
 - Risk, Issue & Dependency Management
@@ -21,7 +23,9 @@ permalink: /skills
 - Coaching & Mentoring High-Performing Teams
 
 ## Technology & Architecture Leadership
+
 > Bridging business strategy with enterprise technology transformation.
+
 - Enterprise Architecture (Application, Data, Cloud, Integration)
 - Solution Design & Technical Alignment
 - Digital Transformation & Cloud Adoption (Azure, PaaS, Kubernetes)
@@ -34,7 +38,9 @@ permalink: /skills
 - Innovation Management & Technology Enablement
 
 ## Business & Interpersonal Excellence
+
 > Building trust, fostering collaboration, and driving measurable outcomes.
+
 - Business Analysis & Requirements Management
 - Communication & Presentation Skills
 - Negotiation & Conflict Resolution
@@ -48,5 +54,5 @@ permalink: /skills
 
 ## Certifications
 
-|<img src="/images/certificates/prince2.png" width="150"> |<img src="/images/certificates/togaf.png" width="120"> |<img src="/images/certificates/azure.png" width="100"> |
-|:---:|:---:|:---:|
+| <img src="/images/certificates/prince2.png" width="120"> | <img src="/images/certificates/togaf.png" width="120"> | <img src="/images/certificates/azure.png" width="120"> |
+|:---------:|:---------:|:---------:|
