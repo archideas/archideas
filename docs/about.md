@@ -9,12 +9,12 @@ permalink: /about
 
 # Tomas Ludik
 
-Enterprise Architecture Leader &#124; IT Strategy & Transformation &#124; FinTech
+### Technical Program Manager &#124; Portfolio & Technology Leadership &#124; PRINCE2 Certified
 
-I am the Senior Enterprise Architect, responsible for delivering holistic and pragmatic solutions aligned with business needs and objectives. With a strong passion for new ideas and emerging technologies, I excel at thinking out of the box to drive tangible results with tremendous energy and dedication. My professional experience includes the public and financial sector across multiple countries within Asia and Europe. I am looking forward to embrace new challenges and continue making meaningful contributions.
 
-**[Book a meeting]**
+I am an experienced Senior Technical Program Manager and Technology Leader, delivering complex initiatives and programs aligned with business and technical objectives. I excel at leading large cross-functional teams, fostering collaboration across diverse stakeholders, and driving programs to successful delivery across public and financial sectors in Europe and Asia. Known for combining strategic vision with pragmatic execution, I thrive on solving complex technical challenges and delivering tangible results.
 
+[Book a Meeting]{: .btn .btn-primary }
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X01E31KF)
 
 ## International Experience
@@ -25,6 +25,8 @@ I am the Senior Enterprise Architect, responsible for delivering holistic and pr
 
 ## More About Me
 
-[LinkedIn](https://www.linkedin.com/in/tomasludik) &#124; [GitHub](https://github.com/tomasludik) &#124; [Email](mailto:tomas.ludik@gmail.com)
+[<img src="/images/about/linkedin.svg" width="20">](https://www.linkedin.com/in/tomasludik)
+[<img src="/images/about/github.svg" width="20">](https://github.com/tomasludik)
+[<img src="/images/about/email.svg" width="20">](mailto:tomas.ludik@gmail.com)
 
-[Book a meeting]: https://calendly.com/tomas-ludik/30min 
+[Book a Meeting]: https://calendly.com/tomas-ludik/30min 
